@@ -1,2 +1,3 @@
 # MaiaJr
-Challenge initially given for training and understanding of my programming abilities.
+Code made in C++(Wiring)
+Using platformIo(Vscode Extension)
