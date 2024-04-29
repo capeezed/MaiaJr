@@ -1,3 +1,4 @@
 # MaiaJr
-Code made in C++(Wiring) \n
+Code made in C++(Wiring)
+
 Using platformIo(Vscode Extension)
