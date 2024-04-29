@@ -1,4 +1,4 @@
 # MaiaJr
 Code made in C++(Wiring)
 
-Using platformIo(Vscode Extension)
+Using platformIo (VScode Extension)
